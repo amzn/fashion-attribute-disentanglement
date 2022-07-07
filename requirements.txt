@@ -1,4 +1,4 @@
 tqdm==4.42.1
-pillow==7.0.0
+pillow==9.0.1
 pytorch==1.4.0
-numpy==1.19.1
+numpy==1.22.0
